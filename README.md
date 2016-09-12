@@ -6,9 +6,6 @@
 			Ryan McBee
 			Luke McBee
 				 
-	Project Due Date:
-			March 28, 2016
-				 
 	Project Title:
 			DigiNerf Gun
 				 
